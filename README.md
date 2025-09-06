@@ -44,6 +44,12 @@ Lab2
 
 <img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/0b1ecd54-9731-4ab3-9753-5fbc24be8903" />
 
+<img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/1dd36157-5a0d-45c5-bb27-ac209fe25870" />
+
+<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/a366ffe3-2e67-4b7b-8c44-c9c739ed832a" />
+
+
+
 
 
 
